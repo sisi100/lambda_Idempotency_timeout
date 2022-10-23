@@ -1,4 +1,4 @@
-テンプレート
+Lambda Powertoolsを使ったlambdaの冪等性でタイムアウト発生した場合のデモ
 
 # 構成
 
